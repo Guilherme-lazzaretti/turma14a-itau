@@ -2,8 +2,8 @@
 
 <h3> Teste Guilherme :D <h4>
 
-  <div style="width:200px:height:200px:background:yellow">
+  <div style="width:200px;height:200px;background:yellow">
   um teste em quadrado 
   </div>
-
+gi
 
